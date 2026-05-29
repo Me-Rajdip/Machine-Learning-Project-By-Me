@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Project Portfolio
+# 🤖 Machine Learning Project 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Me-Rajdip/Machine-Learning-Project-By-Me/)
